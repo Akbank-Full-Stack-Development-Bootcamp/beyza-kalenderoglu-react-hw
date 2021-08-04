@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <nav class="navbar navbar-dark bg-dark mb-5">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="/">
+    <nav className="navbar navbar-dark bg-dark mb-5">
+      <div className="container-fluid">
+        <a className="navbar-brand" href="/">
           MENU
         </a>
       </div>
